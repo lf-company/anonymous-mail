@@ -1,9 +1,3 @@
-
-
-
-coded by CYBER KALLAN (Mallu Youtuber)
-
-	
 import requests
 
 print("\nAnonymous Email by cyber kallan")
